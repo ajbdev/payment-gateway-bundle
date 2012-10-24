@@ -1,5 +1,5 @@
 {
-    "name": "ajbdev/PaymentGatewayBundle",
+    "name": "ajbdev/payment-gateway-bundle",
     "description": "This includes a single implementation for a connection to Authorize.NET AIM Service",
     "keywords": ["gateway","authorize.net","ecommerce","payment"],
     "type": "library",
