@@ -1,0 +1,9 @@
+{
+    "name": "ajbdev/PaymentGatewayBundle",
+    "description": "This includes a single implementation for a connection to Authorize.NET AIM Service",
+    "keywords": ["gateway","authorize.net","ecommerce","payment"],
+    "type": "library",
+    "require":{
+        "php": ">=5.3.0"
+    }
+}
