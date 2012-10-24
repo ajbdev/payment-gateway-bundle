@@ -8,5 +8,6 @@
     },
     "autoload": {
         "psr-0": { "Bundle\\PaymentGatewayBundle": "" }
-    }
+    },
+    "target-dir": ""
 }
